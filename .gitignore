@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.vs/
+
+# Local logs and crash dumps
+*.log
+*.dmp
+*.tmp
+
+# Unity generated debug data not needed for distribution
+*_BurstDebugInformation_DoNotShip/
